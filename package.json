@@ -1,8 +1,13 @@
 {
   "name": "v-image-view",
   "version": "0.0.1",
-  "description": "vue",
-  "main": "dist/image-view.min.js",
+  "description": "vue image view component",
+  "main": "dist/v-image-view.min.js",
+  "keywords": ["vue", "image", "view", "component"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relign/v-image-view.git"
+  },
   "author": {
     "name": "relign",
     "email": "songruigang0803@163.com"

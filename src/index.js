@@ -1,2 +1,2 @@
-import VImageView from './image-view.vue';
+import VImageView from './v-image-view.vue';
 export default VImageView;

@@ -14,6 +14,9 @@ $ npm install v-image-view --save-dev
 ### check Demo
 
 ```bash
+# clone code
+$ git clone https://github.com/relign/v-image-view.git
+
 # install dependencies
 $ npm install v-image-view --save-dev
 

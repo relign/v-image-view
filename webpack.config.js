@@ -67,7 +67,7 @@ if (process.env.NODE_ENV === 'production') {
   module.exports.output = {
     path: path.resolve(__dirname, './dist'),
     publicPath: 'dist/',
-    filename: 'image-view.min.js',
+    filename: 'v-image-view.min.js',
     libraryTarget: 'umd'
   }
 
