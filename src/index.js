@@ -1,2 +1,2 @@
-import HelloWorld from './HelloWorld.vue'
-export default HelloWorld
+import VImageView from './image-view.vue';
+export default VImageView;
